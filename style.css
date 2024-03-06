@@ -1,0 +1,38 @@
+
+.blue-text {
+    color: blue;
+}
+
+body {
+    /* background-color: beige; */
+    background-image: url("images/palm.jpg");
+}
+
+.smaller-image {
+    width: 100px;
+}
+
+a:hover {
+    color: red;
+}
+
+p {
+    font-family: monospace;
+    text-align: justify;
+    text-align: center;
+}
+
+h1 {
+    font-family: Lobster, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    font-family: Lobster, sans-serif;
+    text-align: center;
+}
+
+.silver-background {
+    background-color: silver;
+    font-family: monospace;
+}
