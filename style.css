@@ -12,6 +12,21 @@ body {
     width: 100px;
 }
 
+#input {
+    position: relative;
+    left: 90px;
+}
+
+#button {
+    position: relative;
+    left: 100px;
+}
+
+a {
+    position: relative;
+    left: 80px;
+}
+
 a:hover {
     color: red;
 }
